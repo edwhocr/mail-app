@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edwhocr.github.io/mail-app/static/css/main.d5466a0f.css",
+    "main.js": "/edwhocr.github.io/mail-app/static/js/main.f2836eb9.js",
+    "static/js/787.cda612ba.chunk.js": "/edwhocr.github.io/mail-app/static/js/787.cda612ba.chunk.js",
+    "static/media/logo3.png": "/edwhocr.github.io/mail-app/static/media/logo3.878b5dbaaf6c44ccc8a9.png",
+    "index.html": "/edwhocr.github.io/mail-app/index.html",
+    "main.d5466a0f.css.map": "/edwhocr.github.io/mail-app/static/css/main.d5466a0f.css.map",
+    "main.f2836eb9.js.map": "/edwhocr.github.io/mail-app/static/js/main.f2836eb9.js.map",
+    "787.cda612ba.chunk.js.map": "/edwhocr.github.io/mail-app/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5466a0f.css",
+    "static/js/main.f2836eb9.js"
+  ]
+}
