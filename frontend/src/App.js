@@ -11,7 +11,7 @@ function App() {
       <Route path="/mail-app" element={<Inicio/>} />
       <Route path="/mail-app/usuario/1" element={<Usuario1/>} />
       <Route path="/mail-app/usuario/2" element={<Usuario2/>} />
-      <Route path="*" element={<NotFoundPage/>} />
+      <Route path="/" element={<Inicio/>} />
      </Routes>
 
   );
