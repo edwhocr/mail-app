@@ -8,9 +8,9 @@ import { NotFoundPage } from './Pages/Errors/404';
 function App() {
   return (
      <Routes>
-      <Route path="/" element={<Inicio/>} />
-      <Route path="/usuario/1" element={<Usuario1/>} />
-      <Route path="/usuario/2" element={<Usuario2/>} />
+      <Route path="/mail-app" element={<Inicio/>} />
+      <Route path="/mail-app/usuario/1" element={<Usuario1/>} />
+      <Route path="/mail-app/usuario/2" element={<Usuario2/>} />
       <Route path="*" element={<NotFoundPage/>} />
      </Routes>
 
