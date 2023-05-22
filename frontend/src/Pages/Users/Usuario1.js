@@ -25,7 +25,7 @@ export const Usuario1 = () => {
         mensaje: mensaje
       }}
       )
-      navigate("/usuario/2")
+      navigate("/mail-app/usuario/2")
   }
   useEffect(() => {
   axios({
