@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mail-app/static/css/main.d5466a0f.css",
+    "main.js": "/mail-app/static/js/main.bdbf3677.js",
+    "static/js/787.cda612ba.chunk.js": "/mail-app/static/js/787.cda612ba.chunk.js",
+    "static/media/logo3.png": "/mail-app/static/media/logo3.878b5dbaaf6c44ccc8a9.png",
+    "index.html": "/mail-app/index.html",
+    "main.d5466a0f.css.map": "/mail-app/static/css/main.d5466a0f.css.map",
+    "main.bdbf3677.js.map": "/mail-app/static/js/main.bdbf3677.js.map",
+    "787.cda612ba.chunk.js.map": "/mail-app/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5466a0f.css",
+    "static/js/main.bdbf3677.js"
+  ]
+}
